@@ -9,6 +9,8 @@ Itdoesn't work with String json = readUrl("https://sanctions.nazk.gov.ua/api/per
 
 I also tried to add setting for the "User-Agent", but might have done it improperly.
 
+The part for the "Item" and "Page" can be ignored. I'll change it after fix for the readUrl.
+
 ## Python code
 
 I tried to see is there is anything special with the URL.
