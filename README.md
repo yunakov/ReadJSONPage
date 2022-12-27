@@ -4,6 +4,7 @@
 Java code works with another URL, but not with "sanctions.nazk.gov.ua".
 
 It works with String json = readUrl("http://www.javascriptkit.com/dhtmltutors/javascriptkit.json");
+
 Itdoesn't work with String json = readUrl("https://sanctions.nazk.gov.ua/api/person/53");
 
 I also tried to add setting for the "User-Agent", but might have done it improperly.
